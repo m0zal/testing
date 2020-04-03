@@ -1,4 +1,4 @@
-Через terimnal:
+Через terminal:
 1) mkdir testing
 2) cd testing
 3) git clone https://github.com/m0zal/testing.git
